@@ -1,4 +1,4 @@
-github-fortunes-lambda.zip: index.js node_modules
+github-fortunes-lambda.zip: index.js node_modules fortunes.private-key.pem
 	zip -rq9 $@ $^
 
 node_modules: package.json

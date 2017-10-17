@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/maxspencer/github-fortunes#readme",
   "dependencies": {
+    "jsonwebtoken": "^8.1.0",
     "request": "^2.83.0"
   }
 }
