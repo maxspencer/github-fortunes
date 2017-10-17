@@ -1,0 +1,23 @@
+{
+  "name": "github-fortunes",
+  "version": "0.1.0",
+  "description": "Add adages to GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxspencer/github-fortunes.git"
+  },
+  "keywords": [
+    "github",
+    "lambda"
+  ],
+  "author": "Max Spencer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxspencer/github-fortunes/issues"
+  },
+  "homepage": "https://github.com/maxspencer/github-fortunes#readme"
+}
