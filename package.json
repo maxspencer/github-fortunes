@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maxspencer/github-fortunes/issues"
   },
-  "homepage": "https://github.com/maxspencer/github-fortunes#readme"
+  "homepage": "https://github.com/maxspencer/github-fortunes#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
